@@ -64,7 +64,7 @@ export default function LandingPage() {
           href: "#features",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/bible-black-background-religion-concept_169016-62918.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/bible-black-background-religion-concept_169016-62918.jpg?_wi=1"
       imageAlt="The Holy Quran"
     />
   </div>
@@ -77,7 +77,7 @@ export default function LandingPage() {
       description="We believe every Muslim should have seamless access to the word of Allah. Our platform connects you with authentic resources to study, read, and understand the Holy Quran deeply."
       subdescription="From beginner Tajweed tutorials to advanced Tafsir interpretation, we provide the tools you need to build a consistent and meaningful relationship with the Quran."
       icon={BookOpen}
-      imageSrc="http://img.b2bpic.net/free-photo/ramadan-concept-with-quran-dates_23-2147791795.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/ramadan-concept-with-quran-dates_23-2147791795.jpg?_wi=1"
       mediaAnimation="slide-up"
       imageAlt="Studying quran student"
     />
@@ -107,7 +107,7 @@ export default function LandingPage() {
             },
           ],
           reverse: false,
-          imageSrc: "http://img.b2bpic.net/free-photo/bible-black-background-religion-concept_169016-62918.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/bible-black-background-religion-concept_169016-62918.jpg?_wi=2",
           imageAlt: "minimalist abstract background",
         },
         {
@@ -128,7 +128,7 @@ export default function LandingPage() {
             },
           ],
           reverse: true,
-          imageSrc: "http://img.b2bpic.net/free-photo/ramadan-concept-with-quran-dates_23-2147791795.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/ramadan-concept-with-quran-dates_23-2147791795.jpg?_wi=2",
           imageAlt: "minimalist abstract background",
         },
         {
